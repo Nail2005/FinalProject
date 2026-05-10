@@ -21,5 +21,7 @@ namespace Entity.Entities
 
         public int LateMinutes { get; set; }
         public int EarlyLeaveMinutes { get; set; }
+        public int DurationMinutes { get; set; }   
+
     }
 }

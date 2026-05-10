@@ -1,12 +1,429 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\FinalProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FB68E3-5957-4416-808B-C67535458C6E}|DAL\\DAL.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FB68E3-5957-4416-808B-C67535458C6E}|DAL\\DAL.csproj|solutionrelative:dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|solutionrelative:api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\api\\controllers\\teachersalarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|solutionrelative:api\\controllers\\teachersalarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\dtos\\teachersalarydto\\teachersalarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\dtos\\teachersalarydto\\teachersalarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\concrete\\teachersalaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\concrete\\teachersalaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\concrete\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\concrete\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\concrete\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\concrete\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|solutionrelative:api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\concrete\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\concrete\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\api\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|solutionrelative:api\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\entity\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\entity\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\entity\\entities\\attendancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\attendancestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\abstract\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\abstract\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\dtos\\attendancedto\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\dtos\\attendancedto\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\concrete\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\concrete\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4023897D-6598-4045-9010-2FF1C6463206}|API\\API.csproj|solutionrelative:api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\concrete\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\concrete\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\concrete\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\concrete\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\entity\\entities\\guidance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6DA61-3976-4900-BD95-FD30179CCBC9}|Entity\\Entity.csproj|solutionrelative:entity\\entities\\guidance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\abstract\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\abstract\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|c:\\users\\administrator\\onedrive\\desktop\\final\\finalproject\\business\\dtos\\report\\studentmonthlyreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002B299C-A9F4-4AF4-A489-E27476DDE599}|Business\\Business.csproj|solutionrelative:business\\dtos\\report\\studentmonthlyreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\DAL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "DAL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\DAL\\ServiceRegistration.cs",
+              "RelativeToolTip": "DAL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T21:51:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Business\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\ServiceRegistration.cs*",
+              "RelativeToolTip": "Business\\ServiceRegistration.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwB0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T21:50:35.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherSalaryController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\TeacherSalaryController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TeacherSalaryController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\TeacherSalaryController.cs",
+              "RelativeToolTip": "API\\Controllers\\TeacherSalaryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T21:46:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeacherSalaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\DTOs\\TeacherSalaryDto\\TeacherSalaryDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\TeacherSalaryDto\\TeacherSalaryDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\DTOs\\TeacherSalaryDto\\TeacherSalaryDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\TeacherSalaryDto\\TeacherSalaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T21:44:12.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "API\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T21:12:41.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\Attendance.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Attendance.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\Attendance.cs",
+              "RelativeToolTip": "Entity\\Entities\\Attendance.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T17:31:29.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\LessonService.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\LessonService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\LessonService.cs",
+              "RelativeToolTip": "Business\\Concrete\\LessonService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T16:04:16.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\AttendanceService.cs",
+              "RelativeToolTip": "Business\\Concrete\\AttendanceService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:41:16.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "API\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:16:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\PaymentService.cs",
+              "RelativeToolTip": "Business\\Concrete\\PaymentService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T21:15:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Abstract\\IAttendanceService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IAttendanceService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Abstract\\IAttendanceService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IAttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:40:39.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeacherSalaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\TeacherSalaryService.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\TeacherSalaryService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\TeacherSalaryService.cs",
+              "RelativeToolTip": "Business\\Concrete\\TeacherSalaryService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T15:30:25.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\Lesson.cs",
+              "RelativeToolTip": "Entity\\Entities\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:07:03.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Entity\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:17:06.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttendanceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\AttendanceStatus.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\AttendanceStatus.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\AttendanceStatus.cs",
+              "RelativeToolTip": "Entity\\Entities\\AttendanceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:38:13.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "API\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:30:11.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AttendanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\DTOs\\AttendanceDto\\AttendanceDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\AttendanceDto\\AttendanceDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\DTOs\\AttendanceDto\\AttendanceDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\AttendanceDto\\AttendanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:12:31.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\AuthService.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\AuthService.cs",
+              "RelativeToolTip": "Business\\Concrete\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:57:28.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:57:02.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\API\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "API\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:54:21.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\TeacherService.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\TeacherService.cs",
+              "RelativeToolTip": "Business\\Concrete\\TeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T19:25:51.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Guidance.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\Guidance.cs",
+              "RelativeDocumentMoniker": "Entity\\Entities\\Guidance.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Entity\\Entities\\Guidance.cs",
+              "RelativeToolTip": "Entity\\Entities\\Guidance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:15:43.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\ReportService.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Concrete\\ReportService.cs",
+              "RelativeToolTip": "Business\\Concrete\\ReportService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:12:56.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Abstract\\IReportService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IReportService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\Abstract\\IReportService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:12:08.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentMonthlyReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\DTOs\\Report\\StudentMonthlyReportDto.cs",
+              "RelativeDocumentMoniker": "Business\\DTOs\\Report\\StudentMonthlyReportDto.cs",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Final\\FinalProject\\Business\\DTOs\\Report\\StudentMonthlyReportDto.cs",
+              "RelativeToolTip": "Business\\DTOs\\Report\\StudentMonthlyReportDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:10:24.112Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

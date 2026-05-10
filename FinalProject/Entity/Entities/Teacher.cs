@@ -11,7 +11,8 @@ namespace Entity.Entities
         public int UserId { get; set; }
         public AppUser User { get; set; }
         
-        public decimal Salary { get; set; }
+        public decimal HourlySalary { get; set; }
+        public int LateMinutes { get; set; }    
         public ICollection<Course> Courses { get; set; }    
     }
 }

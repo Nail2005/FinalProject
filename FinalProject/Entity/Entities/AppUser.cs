@@ -13,6 +13,9 @@ namespace Entity.Entities
         public string FullName { get; set; }    
         public bool IsActive { get; set; } = false;
 
+        public string? OtpCode { get; set; }
+        public DateTime? OtpExpireDate { get; set; }
+
         public Parent Parent { get; set; }  
         public Teacher Teacher { get; set; }    
 

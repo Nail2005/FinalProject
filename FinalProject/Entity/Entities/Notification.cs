@@ -13,5 +13,6 @@ namespace Entity.Entities
         public string Message { get; set; }
         public string Type { get; set; }        
         public bool IsRead { get; set; }
+
     }
 }
